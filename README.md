@@ -6,6 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
+Link to github repo: https://github.com/Damon980/CensusApp
 
 library(shiny)
 library(maps)
